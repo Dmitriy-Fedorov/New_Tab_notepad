@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "New Tab message by Dimon",
+  "description": "Override new tab page with your message",
+  "version": "1.2",
+
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
