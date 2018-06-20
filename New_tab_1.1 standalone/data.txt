@@ -1,0 +1,72 @@
+Feb 10 Abstract
+Feb 15 - Preliminary - simulation
+March 1 - Mathematical analysis 
+March 15 - Draft of report
+March 20-25 - Feedback
+April 15 - Final report
+
+
+Чайник
+-Мусорка
+Алёрт
+Смарт счётчик
+8.Нужна такая микроволновка, которая при установке времени разогрева будет соединяться с YouTube, находить там видео точно такой продолжительности и воспроизводить его на дверце прибора.
+
+
+What data can we collect & how it can be processed?
+https://www.hackster.io/mjrobot/from-data-to-graph-a-web-journey-with-flask-and-sqlite-4dba35
+
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-iot-intruder-alert-system
+
+Telegram?
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-telegram-bot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
